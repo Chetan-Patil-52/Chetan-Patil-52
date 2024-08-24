@@ -34,6 +34,10 @@ Check out these useful video resources:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+#
+<img src="https://raw.githubusercontent.com/manishjadhav9/manishjadhav9/output/snake.svg" alt="Snake animation" />
+#
+
 # 💻 Featured YouTube Videos
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 [![AIML](https://img.youtube.com/vi/5NgNicANyqM/0.jpg)](https://youtu.be/5NgNicANyqM?si=LH-BWOrdRRN7qlUP)
