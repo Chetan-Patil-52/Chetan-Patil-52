@@ -44,4 +44,5 @@ Check out these useful video resources:
 [![Harvard CS50 (2023)](https://img.youtube.com/vi/LfaMVlDaQ24/0.jpg)](https://youtu.be/LfaMVlDaQ24?si=cMEQ9NKb9svqXw6k)
 [![TOC](https://img.youtube.com/vi/9kuynHcM3UA/0.jpg)](https://youtu.be/9kuynHcM3UA?si=4XUchyWFNl88Pn7q)
 [![Distributed Systems](https://img.youtube.com/vi/sGzQT_ZrsFI/0.jpg)](https://youtu.be/sGzQT_ZrsFI?si=Kh9mq4f9Evyx2Irs)
-[![Strivers A2Z-DSA Course](https://img.youtube.com/vi/DvFQ8h1RrIA/0.jpg)]([https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=nKpR-TLjpyrTRTzK](https://youtu.be/0bHoB32fuj0?si=-qiYJY7C8uMDOc89))
+[![Striver's A2Z-DSA Course](https://img.youtube.com/vi/0bHoB32fuj0/0.jpg)](https://youtu.be/0bHoB32fuj0?si=-qiYJY7C8uMDOc89)
+
