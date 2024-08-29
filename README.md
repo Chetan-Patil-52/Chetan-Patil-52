@@ -43,6 +43,14 @@ Here are some of the technologies and tools I work with:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+#
+
+<!-- Animated Snake GIF -->
+<img src="https://raw.githubusercontent.com/manishjadhav9/manishjadhav9/output/snake.svg" alt="Snake animation" />
+
+#
+
+
 # 🌟 Featured Projects & Content
 Check out these awesome resources and projects:
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -52,9 +60,3 @@ Check out these awesome resources and projects:
 [![Distributed Systems](https://img.youtube.com/vi/sGzQT_ZrsFI/0.jpg)](https://youtu.be/sGzQT_ZrsFI?si=Kh9mq4f9Evyx2Irs)
 [![Striver's A2Z-DSA Course](https://img.youtube.com/vi/0bHoB32fuj0/0.jpg)](https://youtu.be/0bHoB32fuj0?si=-qiYJY7C8uMDOc89)
 
-#
-
-<!-- Animated Snake GIF -->
-<img src="https://raw.githubusercontent.com/manishjadhav9/manishjadhav9/output/snake.svg" alt="Snake animation" />
-
-#
