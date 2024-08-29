@@ -12,9 +12,11 @@ Check out these useful video resources:
 - [Theory of Computation (TOC)](https://youtu.be/9kuynHcM3UA?si=4XUchyWFNl88Pn7q)
 - [Distributed Systems Course @ University Cambridge](https://youtu.be/sGzQT_ZrsFI?si=Kh9mq4f9Evyx2Irs)
 - [Strivers A2Z-DSA Course Playlist](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=nKpR-TLjpyrTRTzK)
-- [SE Course Playlist]([https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=nKpR-TLjpyrTRTzK](https://youtu.be/uJpQlyT_CK4?si=Yqltyyh5HL_Sys6L))
+- [SE Course Playlist](https://youtu.be/uJpQlyT_CK4?si=Yqltyyh5HL_Sys6L)
+
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=ChetanPatil&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
