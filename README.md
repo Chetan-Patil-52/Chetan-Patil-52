@@ -46,6 +46,10 @@ Here are some of the technologies and tools I work with:
 <!-- Animated Snake GIF -->
 <img src="https://raw.githubusercontent.com/Chetan-Patil-52/Chetan-Patil-52/main/output/snake.svg" alt="Snake animation" />
 
+#
+<img src="https://raw.githubusercontent.com/manishjadhav9/manishjadhav9/output/snake.svg" alt="Snake animation" />
+#
+
 
 
 # 🌟 Featured Projects & Content
