@@ -45,7 +45,9 @@ Here are some of the technologies and tools I work with:
 
 # 🐍 Snake Game
 
-![Snake animation](https://github.com/Chetan-Patil-52/Chetan-Patil-52/raw/main/dist/snake.svg)
+#
+<img src="https://raw.githubusercontent.com/manishjadhav9/manishjadhav9/output/snake.svg" alt="Snake animation" />
+#
 
 
 # 🌟 Featured Projects & Content
