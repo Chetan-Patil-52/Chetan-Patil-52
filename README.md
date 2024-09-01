@@ -12,7 +12,7 @@ I’m a passionate engineering student specializing in Computer Engineering at B
 
 <!-- Embed the new GIF before the Learning Resources section -->
 <div align="center">
-  <img src="https://gifdb.com/images/high/clicking-and-coding-computer-system-h44nafjgcgecbmsb.gif" alt="Clicking and Coding GIF" width="5000"/>
+  <img src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" alt="Lofi Rooftop Study Night Chill GIF" width="500"/>
 </div>
 
 
