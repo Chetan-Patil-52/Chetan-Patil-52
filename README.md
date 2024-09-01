@@ -10,10 +10,11 @@ I’m a passionate engineering student specializing in Computer Engineering at B
 - 🚀 **Project Contributor**: Engaged in various personal and collaborative projects.
 - 🤖 **Future AI Innovator**: Aiming to make a significant impact in the AI and ML fields.
 
-<!-- Embed the GIF before the Learning Resources section -->
+<!-- Embed the new GIF before the Learning Resources section -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611n5so1qh8a4znyb5lant7dpr4p1kbb6zjxnwvkb6i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="500"/>
+  <img src="https://gifdb.com/images/high/clicking-and-coding-computer-system-h44nafjgcgecbmsb.gif" alt="Clicking and Coding GIF" width="500"/>
 </div>
+
 
 # 📚 Learning Resources
 Enhance your knowledge with these excellent video resources:
