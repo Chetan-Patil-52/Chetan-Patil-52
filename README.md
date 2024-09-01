@@ -12,7 +12,7 @@ I’m a passionate engineering student specializing in Computer Engineering at B
 
 <!-- Embed the GIF before the Learning Resources section -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611n5so1qh8a4znyb5lant7dpr4p1kbb6zjxnwvkb6i&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Coding GIF" width="500"/>
+  <img src="[https://media2.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif?cid=790b7611n5so1qh8a4znyb5lant7dpr4p1kbb6zjxnwvkb6i&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif)" alt="Coding GIF" width="500"/>
 </div>
 
 # 📚 Learning Resources
