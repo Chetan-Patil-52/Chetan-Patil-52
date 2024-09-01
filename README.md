@@ -12,7 +12,7 @@ I’m a passionate engineering student specializing in Computer Engineering at B
 
 <!-- Embed the GIF before the Learning Resources section -->
 <div align="center">
-  <img src="[YOUR_GIF_URL](https://github.com/Chetan-Patil-52/Chetan-Patil-52/blob/main/coding.gif)" alt="Coding GIF" width="500"/>
+  <img src="https://github.com/Chetan-Patil-52/Chetan-Patil-52/blob/main/coding.gif" alt="Coding GIF" width="500"/>
 </div>
 
 # 📚 Learning Resources
