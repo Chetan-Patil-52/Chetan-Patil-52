@@ -15,7 +15,6 @@ I’m a passionate engineering student specializing in Computer Engineering at B
   <img src="https://gifdb.com/images/high/lofi-rooftop-study-night-chill-lqcvkej9ymld5zbv.gif" alt="Lofi Rooftop Study Night Chill GIF" width="500"/>
 </div>
 
-
 # 📚 Learning Resources
 Enhance your knowledge with these excellent video resources:
 - [**Artificial Intelligence & Machine Learning**](https://youtu.be/5NgNicANyqM?si=LH-BWOrdRRN7qlUP)
