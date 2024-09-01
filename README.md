@@ -49,7 +49,6 @@ Here are some of the technologies and tools I work with:
 <img src="https://raw.githubusercontent.com/manishjadhav9/manishjadhav9/output/snake.svg" alt="Snake animation" />
 #
 
-
 # 🌟 Featured Projects & Content
 Check out these awesome resources and projects:
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
