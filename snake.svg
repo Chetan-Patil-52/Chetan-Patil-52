@@ -17,7 +17,7 @@ jobs:
         id: snake
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/snake.svg
+          output: snake.svg  # Save directly in the root
 
       - name: Push Snake SVG to the repository
         uses: EndBug/add-and-commit@v7
@@ -25,4 +25,4 @@ jobs:
           author_name: Github Actions
           author_email: actions@github.com
           message: "Generated snake.svg"
-          add: "dist/snake.svg"
+          add: "snake.svg"  # Add directly in the root
