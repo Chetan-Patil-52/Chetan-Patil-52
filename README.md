@@ -1,5 +1,3 @@
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![Chetan Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-Patil-52&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 # 👋 Hi, I'm Chetan Patil!
 
@@ -58,6 +56,12 @@ Check out these awesome resources and projects:
 [![Distributed Systems](https://img.youtube.com/vi/sGzQT_ZrsFI/0.jpg)](https://youtu.be/sGzQT_ZrsFI?si=Kh9mq4f9Evyx2Irs)
 [![Striver's A2Z-DSA Course](https://img.youtube.com/vi/0bHoB32fuj0/0.jpg)](https://youtu.be/0bHoB32fuj0?si=-qiYJY7C8uMDOc89)
 
+<!-- GitHub stats from https://github.com/Chetan-Patil-52/github-readme-stats -->
+![Chetan Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-Patil-52&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
 ## 📬 Contact Me
+- Instagram: [red_wizard_11](https://www.instagram.com/red_wizard_11/)
+- Twitter: [@CHETANPATIL5345](https://twitter.com/CHETANPATIL5345)
+- Facebook: [Chetan Patil](https://www.facebook.com/chetan.patil)
 - LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil/)
-- Email: [chetan@example.com](mailto:chetan@example.com)
+- Email: [chetan.patil23@spit.ac.in](mailto:chetan.patil23@spit.ac.in)
