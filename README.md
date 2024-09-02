@@ -52,7 +52,6 @@ Here are some of the technologies and tools I work with:
 <img src="https://raw.githubusercontent.com/Chetan-Patil-52/Chetan-Patil-52/main/snake.svg" alt="Snake animation" />
 
 
-
 ## 🌟 Featured Projects & Content
 Check out these awesome resources and projects:
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
