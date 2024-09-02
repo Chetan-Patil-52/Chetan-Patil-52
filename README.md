@@ -49,7 +49,8 @@ Here are some of the technologies and tools I work with:
 
 ## 🐍 Snake Game
 <!-- Snake game from your own repository -->
-<img src="https://your-image-url.com/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Chetan-Patil-52/Chetan-Patil-52/main/snake.svg" alt="Snake animation" />
+
 
 
 ## 🌟 Featured Projects & Content
