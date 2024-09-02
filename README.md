@@ -1,9 +1,11 @@
-<!-- Level 3: Add custom code -->
+<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
+![Chetan Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ChetanPatil&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 # 👋 Hi, I'm Chetan Patil!
-I’m a passionate engineering student specializing in Computer Engineering at Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, Andheri (West), Mumbai.<br/>
-🎓 I hold a diploma in Computer Science Engineering from Karnataka.<br/>
-💼 I have hands-on experience in Full Stack Development and am currently deepening my knowledge in Data Structures & Algorithms (DSA) and exploring the realms of Artificial Intelligence & Machine Learning (AIML).<br/>
+
+I’m a passionate engineering student specializing in Computer Engineering at Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, Andheri (West), Mumbai.  
+🎓 I hold a diploma in Computer Science Engineering from Karnataka.  
+💼 I have hands-on experience in Full Stack Development and am currently deepening my knowledge in Data Structures & Algorithms (DSA) and exploring the realms of Artificial Intelligence & Machine Learning (AIML).
 
 ## 🌟 About Me
 - 💻 **Programming Enthusiast**: Constantly learning and improving my skills.
@@ -15,7 +17,7 @@ I’m a passionate engineering student specializing in Computer Engineering at B
   <img src="https://github.com/Chetan-Patil-52/Chetan-Patil-52/blob/main/coding.gif" alt="Coding GIF" width="500"/>
 </div>
 
-# 📚 Learning Resources
+## 📚 Learning Resources
 Enhance your knowledge with these excellent video resources:
 - [**Artificial Intelligence & Machine Learning**](https://youtu.be/5NgNicANyqM?si=LH-BWOrdRRN7qlUP)
 - [**Harvard CS50 (2023) – Full Computer Science University Course**](https://youtu.be/LfaMVlDaQ24?si=cMEQ9NKb9svqXw6k)
@@ -24,12 +26,7 @@ Enhance your knowledge with these excellent video resources:
 - [**Strivers A2Z-DSA Course Playlist**](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=nKpR-TLjpyrTRTzK)
 - [**SE Course Playlist**](https://youtu.be/uJpQlyT_CK4?si=Yqltyyh5HL_Sys6L)
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=ChetanPatil&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Chetan Patil's GitHub Stats"/>
-</div>
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 Here are some of the technologies and tools I work with:
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -48,13 +45,11 @@ Here are some of the technologies and tools I work with:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# 🐍 Snake Game
-
-#
+## 🐍 Snake Game
+<!-- Snake game from https://github.com/manishjadhav9/snake -->
 <img src="https://raw.githubusercontent.com/manishjadhav9/manishjadhav9/output/snake.svg" alt="Snake animation" />
-#
 
-# 🌟 Featured Projects & Content
+## 🌟 Featured Projects & Content
 Check out these awesome resources and projects:
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
 [![AIML](https://img.youtube.com/vi/5NgNicANyqM/0.jpg)](https://youtu.be/5NgNicANyqM?si=LH-BWOrdRRN7qlUP)
@@ -62,3 +57,7 @@ Check out these awesome resources and projects:
 [![TOC](https://img.youtube.com/vi/9kuynHcM3UA/0.jpg)](https://youtu.be/9kuynHcM3UA?si=4XUchyWFNl88Pn7q)
 [![Distributed Systems](https://img.youtube.com/vi/sGzQT_ZrsFI/0.jpg)](https://youtu.be/sGzQT_ZrsFI?si=Kh9mq4f9Evyx2Irs)
 [![Striver's A2Z-DSA Course](https://img.youtube.com/vi/0bHoB32fuj0/0.jpg)](https://youtu.be/0bHoB32fuj0?si=-qiYJY7C8uMDOc89)
+
+## 📬 Contact Me
+- LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil/)
+- Email: [chetan@example.com](mailto:chetan@example.com)
