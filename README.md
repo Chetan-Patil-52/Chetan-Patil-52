@@ -58,7 +58,7 @@ Check out these awesome resources and projects:
 [![Striver's A2Z-DSA Course](https://img.youtube.com/vi/0bHoB32fuj0/0.jpg)](https://youtu.be/0bHoB32fuj0?si=-qiYJY7C8uMDOc89)
 [![Python](https://img.youtube.com/vi/xlcNMlyN34g/0.jpg)](https://youtu.be/xlcNMlyN34g?si=gQTyJSzCtchi47yG)
 
-## Stats
+## 📊 Stats
 <!-- GitHub stats from https://github.com/Chetan-Patil-52/github-readme-stats -->
 ![Chetan Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-Patil-52&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
