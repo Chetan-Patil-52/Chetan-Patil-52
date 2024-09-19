@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Chetan Patil!
 
 I’m a passionate engineering student specializing in Computer Engineering at Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, Andheri (West), Mumbai.  
@@ -23,6 +22,8 @@ Enhance your knowledge with these excellent video resources:
 - [**Distributed Systems Course @ University of Cambridge**](https://youtu.be/sGzQT_ZrsFI?si=Kh9mq4f9Evyx2Irs)
 - [**Strivers A2Z-DSA Course Playlist**](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=nKpR-TLjpyrTRTzK)
 - [**SE Course Playlist**](https://youtu.be/uJpQlyT_CK4?si=Yqltyyh5HL_Sys6L)
+- [**New Video Resource**](https://youtu.be/xlcNMlyN34g?si=gQTyJSzCtchi47yG)  
+  [![Python_Project](https://img.youtube.com/vi/xlcNMlyN34g/0.jpg)](https://youtu.be/xlcNMlyN34g?si=gQTyJSzCtchi47yG)
 
 ## 💻 Tech Stack
 Here are some of the technologies and tools I work with:
@@ -47,7 +48,6 @@ Here are some of the technologies and tools I work with:
 <!-- Snake game from your own repository -->
 <img src="https://raw.githubusercontent.com/Chetan-Patil-52/Chetan-Patil-52/output/snake.svg" alt="Snake animation" />
 
-
 ## 🌟 Featured Projects & Content
 Check out these awesome resources and projects:
 <!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
@@ -56,9 +56,9 @@ Check out these awesome resources and projects:
 [![TOC](https://img.youtube.com/vi/9kuynHcM3UA/0.jpg)](https://youtu.be/9kuynHcM3UA?si=4XUchyWFNl88Pn7q)
 [![Distributed Systems](https://img.youtube.com/vi/sGzQT_ZrsFI/0.jpg)](https://youtu.be/sGzQT_ZrsFI?si=Kh9mq4f9Evyx2Irs)
 [![Striver's A2Z-DSA Course](https://img.youtube.com/vi/0bHoB32fuj0/0.jpg)](https://youtu.be/0bHoB32fuj0?si=-qiYJY7C8uMDOc89)
+![Chetan Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-Patil-52&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 <!-- GitHub stats from https://github.com/Chetan-Patil-52/github-readme-stats -->
-![Chetan Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-Patil-52&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
 ## 📬 Contact Me
 - Instagram: [red_wizard_11](https://www.instagram.com/red_wizard_11/)
