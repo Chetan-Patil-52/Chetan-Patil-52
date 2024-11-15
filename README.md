@@ -78,9 +78,10 @@ Check out these awesome resources and projects:
 <!-- GitHub stats from https://github.com/Chetan-Patil-52/github-readme-stats -->
 ![Chetan Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-Patil-52&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
+<!-- For dark mode -->
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Chetan-Patil-52&theme=dracula" />
-    <img src="https://streak-stats.demolab.com?user=Chetan-Patil-52&theme=default" />
+  <source srcset="https://streak-stats.demolab.com?user=Chetan-Patil-52&theme=dracula" media="(prefers-color-scheme: dark)">
+  <img src="https://streak-stats.demolab.com?user=Chetan-Patil-52&theme=default" alt="GitHub Streak Stats">
 </picture>
 
 
