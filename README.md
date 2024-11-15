@@ -9,13 +9,18 @@ I’m a passionate engineering student specializing in Computer Engineering at B
 - 🚀 **Project Contributor**: Engaged in various personal and collaborative projects.
 - 🤖 **Future AI Innovator**: Aiming to make a significant impact in the AI and ML fields.
 
-<!-- ## 📈 Achievements
+
+<!--![LeetCode 50 Days Badge](https://leetcard.jacoblin.cool/red_wizards_11?ext=heatmap&theme=wtf)
+
+## 📈 Achievements
 
 ### 🏆 LeetCode Streak Badge
-![LeetCode 50 Days Badge](assets/LeetCode_50.png)
+![LeetCode 50 Days Badge](Achivements/50Days_Batch.png)
+![LeetCode 50 Days Badge](50Days_Batch.png)
 Awarded to the top 6.9% of LeetCoders for solving problems 50+ days in 2024!
 
 ### 🥇 CodeChef Gold Streak Badge
+![CodeChef Gold Streak Badge](assets/CodeChefBadge(Gold).png)
 ![CodeChef Gold Streak Badge](assets/CodeChefBadge(Gold).png)
 Awarded for maintaining a 50-day coding streak on CodeChef!
 
@@ -107,6 +112,7 @@ Check out these awesome resources and projects:
   <img src="https://streak-stats.demolab.com?user=Chetan-Patil-52&theme=default" alt="GitHub Streak Stats">
 </picture>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/red_wizards_11?theme=wtf)
 
 ## 📬 Contact Me
 - Instagram: [red_wizard_11](https://www.instagram.com/red_wizard_11/)
