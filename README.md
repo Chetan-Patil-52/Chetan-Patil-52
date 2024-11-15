@@ -9,6 +9,29 @@ I’m a passionate engineering student specializing in Computer Engineering at B
 - 🚀 **Project Contributor**: Engaged in various personal and collaborative projects.
 - 🤖 **Future AI Innovator**: Aiming to make a significant impact in the AI and ML fields.
 
+## 📈 Achievements
+
+### 🏆 LeetCode Streak Badge
+![LeetCode 50 Days Badge](assets/LeetCode_50.png)
+Awarded to the top 6.9% of LeetCoders for solving problems 50+ days in 2024!
+
+### 🥇 CodeChef Gold Streak Badge
+![CodeChef Gold Streak Badge](assets/CodeChefBadge(Gold).png)
+Awarded for maintaining a 50-day coding streak on CodeChef!
+
+### 🥈 CodeChef Silver Streak Badge
+![CodeChef Silver Streak Badge](assets/CodeChefBadge(Silver).png)
+Awarded for maintaining a 25-day coding streak on CodeChef!
+
+### 🥉 CodeChef Bronze Streak Badge
+![CodeChef Bronze Streak Badge](assets/CodeChefBadge(Bronze).png)
+Awarded for maintaining a 10-day coding streak on CodeChef!
+
+### 🎖️ Special Badge - Red Wizard
+![Red Wizard](assets/redwizard_11.png)
+Special recognition for outstanding coding performance and dedication!
+
+
 <!-- Embed the GIF before the Learning Resources section -->
 <div align="center">
   <img src="https://github.com/Chetan-Patil-52/Chetan-Patil-52/blob/main/coding.gif" alt="Coding GIF" width="500"/>
