@@ -9,7 +9,7 @@ I’m a passionate engineering student specializing in Computer Engineering at B
 - 🚀 **Project Contributor**: Engaged in various personal and collaborative projects.
 - 🤖 **Future AI Innovator**: Aiming to make a significant impact in the AI and ML fields.
 
-## 📈 Achievements
+<!-- ## 📈 Achievements
 
 ### 🏆 LeetCode Streak Badge
 ![LeetCode 50 Days Badge](assets/LeetCode_50.png)
@@ -29,7 +29,7 @@ Awarded for maintaining a 10-day coding streak on CodeChef!
 
 ### 🎖️ Special Badge - Red Wizard
 ![Red Wizard](assets/redwizard_11.png)
-Special recognition for outstanding coding performance and dedication!
+Special recognition for outstanding coding performance and dedication! -->
 
 
 <!-- Embed the GIF before the Learning Resources section -->
