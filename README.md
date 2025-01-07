@@ -118,5 +118,5 @@ Check out these awesome resources and projects:
 - Instagram: [red_wizard_11](https://www.instagram.com/red_wizard_11/)
 - Twitter: [@CHETANPATIL5345](https://twitter.com/CHETANPATIL5345)
 - Facebook: [Chetan Patil](https://www.facebook.com/chetan.patil)
-- LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil/)
+- LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-147603345/)
 - Email: [chetan.patil23@spit.ac.in](mailto:chetan.patil23@spit.ac.in)
