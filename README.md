@@ -4,13 +4,9 @@
 
 ![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+[![Memories - Spotify](https://img.shields.io/badge/Now%20Playing-Memories%20by%20Maroon%205-green?style=for-the-badge&logo=spotify)](https://open.spotify.com/track/2bT1PH7Rk8A9YJX9wG3sVR)
 
-
-
-
-
-
-
+<!--[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/track/2bT1PH7Rk8A9YJX9wG3sVR)-->
 
 
 I’m a passionate engineering student specializing in Computer Engineering at Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, Andheri (West), Mumbai.  
