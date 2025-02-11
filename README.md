@@ -2,6 +2,17 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chetan-Patil-52&label=Profile%20Views&color=brightgreen&style=flat)
 
+![Random Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
+
+
+
+
+
 I’m a passionate engineering student specializing in Computer Engineering at Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, Andheri (West), Mumbai.  
 🎓 I hold a diploma in Computer Science Engineering from Karnataka.  
 💼 I have hands-on experience in Full Stack Development and am currently deepening my knowledge in Data Structures & Algorithms (DSA) and exploring the realms of Artificial Intelligence & Machine Learning (AIML).
@@ -104,6 +115,9 @@ Check out these awesome resources and projects:
 [![Striver's A2Z-DSA Course](https://img.youtube.com/vi/0bHoB32fuj0/0.jpg)](https://youtu.be/0bHoB32fuj0?si=-qiYJY7C8uMDOc89)
 [![Python](https://img.youtube.com/vi/xlcNMlyN34g/0.jpg)](https://youtu.be/xlcNMlyN34g?si=gQTyJSzCtchi47yG)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chetan-Patil-52&theme=react-dark)
+
+
 ## 📊 Stats
 <!-- GitHub stats from https://github.com/Chetan-Patil-52/github-readme-stats -->
 ![Chetan Patil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chetan-Patil-52&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
@@ -116,9 +130,17 @@ Check out these awesome resources and projects:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/red_wizards_11?theme=wtf)
 
+<!-- 
+🙃 Congratulations! You found the secret message hidden in my README! 🎉
+-->
+
+
 ## 📬 Contact Me
 - Instagram: [red_wizard_11](https://www.instagram.com/red_wizard_11/)
 - Twitter: [@CHETANPATIL5345](https://twitter.com/CHETANPATIL5345)
 - Facebook: [Chetan Patil](https://www.facebook.com/chetan.patil)
 - LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-147603345/)
 - Email: [chetan.patil23@spit.ac.in](mailto:chetan.patil23@spit.ac.in)
+
+  ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Chetan-Patil-52&title=Profile%20Views)
+
