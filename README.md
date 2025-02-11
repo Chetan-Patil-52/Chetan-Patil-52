@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Chetan Patil!
 
+![Profile Views](https://komarev.com/ghpvc/?username=Chetan-Patil-52&label=Profile%20Views&color=brightgreen&style=flat)
+
 I’m a passionate engineering student specializing in Computer Engineering at Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, Andheri (West), Mumbai.  
 🎓 I hold a diploma in Computer Science Engineering from Karnataka.  
 💼 I have hands-on experience in Full Stack Development and am currently deepening my knowledge in Data Structures & Algorithms (DSA) and exploring the realms of Artificial Intelligence & Machine Learning (AIML).
