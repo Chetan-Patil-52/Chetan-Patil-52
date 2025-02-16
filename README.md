@@ -135,8 +135,9 @@ Check out these awesome resources and projects:
 - Instagram: [red_wizard_11](https://www.instagram.com/red_wizard_11/)
 - Twitter: [@CHETANPATIL5345](https://twitter.com/CHETANPATIL5345)
 - Facebook: [Chetan Patil](https://www.facebook.com/chetan.patil)
-- LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-147603345/)
+- LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-326699347/)
 - Email: [chetan.patil23@spit.ac.in](mailto:chetan.patil23@spit.ac.in)
+
 
   ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Chetan-Patil-52&title=Profile%20Views)
 
