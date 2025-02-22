@@ -130,6 +130,8 @@ Check out these awesome resources and projects:
 🙃 Congratulations! You found the secret message hidden in my README! 🎉
 -->
 
+[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://chetanpatil.vercel.app/)
+
 
 ## 📬 Contact Me
 - Instagram: [red_wizard_11](https://www.instagram.com/red_wizard_11/)
