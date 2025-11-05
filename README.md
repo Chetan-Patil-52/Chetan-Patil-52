@@ -14,7 +14,7 @@
 
 
 I’m a passionate engineering student specializing in Computer Engineering at Bharatiya Vidya Bhavans Sardar Patel Institute of Technology, Andheri (West), Mumbai.  
-🎓 I hold a diploma in Computer Science Engineering from Karnataka.  
+🎓 I hold a diploma in Computer Science Engineering.  
 💼 I have hands-on experience in Full Stack Development and am currently deepening my knowledge in Data Structures & Algorithms (DSA) and exploring the realms of Artificial Intelligence & Machine Learning (AIML).
 
 ## 🌟 About Me
