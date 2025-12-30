@@ -2,7 +2,7 @@
 
 👉 [Click here to view it](https://gist.github.com/Chetan-Patil-52/70ddb5a9758416501a54893e6d13de44) -->
 
-# 👋 Hi, I'm Chetan Patil!
+# 👋 Hi, I'm Chetan Patil! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chetan-Patil-52&label=Profile%20Views&color=brightgreen&style=flat)
 
@@ -144,6 +144,7 @@ Check out these awesome resources and projects:
 - LinkedIn: [Chetan Patil](https://www.linkedin.com/in/chetan-patil-326699347/)
 - Email: [chetan.patil23@spit.ac.in](mailto:chetan.patil23@spit.ac.in)
 
+## YEAR 2026
 
   ![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Chetan-Patil-52&title=Profile%20Views)
 
