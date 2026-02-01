@@ -3,6 +3,7 @@
 👉 [Click here to view it](https://gist.github.com/Chetan-Patil-52/70ddb5a9758416501a54893e6d13de44) -->
 
 # 👋 Hi, I'm Chetan Patil! 
+        ~ Stay Hungary, Stay Foolish
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chetan-Patil-52&label=Profile%20Views&color=brightgreen&style=flat)
 
